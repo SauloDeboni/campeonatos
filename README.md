@@ -1,0 +1,2 @@
+# campeonatos
+Scripts para Campeonatos
